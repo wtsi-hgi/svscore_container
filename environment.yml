@@ -1,0 +1,14 @@
+name: conda_deconvolution
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+  - anaconda
+dependencies:
+  - perl>=5.10.1
+  - vcfanno=0.0.11
+  - svtools
+  - tabix
+  - perl-test-leaktrace
+  - perl-list-moreutils
+  - perl-math-round
