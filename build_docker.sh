@@ -1,1 +1,1 @@
-sudo docker build . -t wtsihgi/svscore:1.0
+sudo docker build . -t wtsihgi/svscore:2.0.0
